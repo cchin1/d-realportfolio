@@ -1,6 +1,10 @@
 # realportfolio
 Recreation of Professional Portfolio to be Employer Ready and Competitive
 
+## GitHub Pages and External Site
+https://cchin1.github.io/realportfolio/
+https://candicechin.com (coming soon)
+
 ## Technologies Used
 HTML, CSS, Javascript, Bootstrap, jQuery
 
